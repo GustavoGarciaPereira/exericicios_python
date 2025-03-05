@@ -1,6 +1,4 @@
-Aqui estão cinco perguntas iniciais sobre Python, junto com os gabaritos:
-
-### Perguntas
+### Perguntas Python
 
 1. **Qual é o resultado da expressão `5 + 3 * 2` em Python?**
    - A) 11
@@ -31,9 +29,8 @@ Aqui estão cinco perguntas iniciais sobre Python, junto com os gabaritos:
    - B) `=`
    - C) `+=`
    - D) `-=`
-Aqui estão cinco perguntas iniciais sobre Python/Django, junto com os gabaritos:
 
-### Perguntas
+### Perguntas Django
 
 1. **Qual é a principal diferença entre uma lista e uma tupla em Python?**
    - A) Uma lista é imutável, enquanto uma tupla é mutável.
